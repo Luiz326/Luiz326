@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
 <Details>
-  
+  <a href="https://cutt.ly/VhmMBss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitoria alric" height="30" width="40" /></a>
   
   
  
