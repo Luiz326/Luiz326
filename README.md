@@ -1,4 +1,7 @@
 ### Hi there 👋
+<Details>
+  <Sumary><b>coisas para saber sobre mim</<i>(Clique aqui)</i>b></Sumary>
+  </Details>
 
 <!--
 **Luiz326/Luiz326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
