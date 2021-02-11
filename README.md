@@ -1,7 +1,8 @@
 ### Hi there 👋
+![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=radical)
 <Details>
   
-  ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=radical)
+  
   
  
     <br>
