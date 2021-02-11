@@ -9,7 +9,6 @@ Redes Sociais
 
 ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
 
-[! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Luiz326 )](https://github.com/Luiz326/github-readme-stats) 
 
 
 <!--
