@@ -1,5 +1,5 @@
-# Hi there 👋
-Olá sou estou cursonda análise e desenvolvimento de sistemas
+# Olá pessoal👋
+Me chamo Luiz e estou cursando análise e desenvolvimento de sistemas.
 <br><br>
 Redes Sociais
 <br><br>
