@@ -1,20 +1,12 @@
 # Hi there 👋
-<br>
+<br><br>
 Redes Sociais
 <br>
 <a href="https://www.linkedin.com/in/luiz-mitsuru-dai-front-end/" target="_blank"><img align="center" src="linkedin_icon.svg" alt="Luiz Mitsuru Dai" height="64" width="64" /></a>
 <br>
+<br>
 
 ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
-<Details>
-  
-  
-  
- 
-  
-  
-  
-  </Details>
 
   
 
