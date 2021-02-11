@@ -1,10 +1,12 @@
 ### Hi there 👋
 <Details>
   <Sumary><b>coisas para saber sobre mim</b><i>(Clique aqui)</i></Sumary>
-  </Details>
-  <br>
+    <br>
   
   ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=radical)
+  
+  </Details>
+
   
 
 <!--
