@@ -8,8 +8,9 @@ Redes Sociais
 <br>
 
 ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
+
+<a href="https://github.com/Luiz326/github-readme-stats">
+  
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz326&layout=compact&theme=material-palenight" />
 </a>
 
