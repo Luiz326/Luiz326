@@ -2,6 +2,10 @@
 <Details>
   <Sumary><b>coisas para saber sobre mim</b><i>(Clique aqui)</i></Sumary>
   </Details>
+  <br>
+  
+  ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmitsurudai&show_icons=true&theme=radical)
+  
 
 <!--
 **Luiz326/Luiz326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
