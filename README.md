@@ -1,4 +1,5 @@
 # Hi there 👋
+Olá sou estou cursonda análise e desenvolvimento de sistemas
 <br><br>
 Redes Sociais
 <br><br>
