@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
 <Details>
-  <a href="https://www.linkedin.com/in/luiz-mitsuru-dai-front-end/" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F24845&psig=AOvVaw3HM9tVBHj-WvBVOCtFIJ-F&ust=1613115224914000&source=images&cd=vfe&ved=2ahUKEwjesfzQqOHuAhVUNbkGHYDcBM0Qr4kDegUIARC9AQ" alt="Luiz Mitsuru Dai" height="50" width="40" /></a>
+  <a href="https://www.linkedin.com/in/luiz-mitsuru-dai-front-end/" target="_blank"><img align="center" src="<div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div>" alt="Luiz Mitsuru Dai" height="50" width="40" /></a>
   
   
  
