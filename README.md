@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
 <Details>
-  <a href="https://www.linkedin.com/in/luiz-mitsuru-dai-front-end/" target="_blank"><img align="center" src="linkedin_icon.svg" alt="Luiz Mitsuru Dai" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/luiz-mitsuru-dai-front-end/" target="_blank"><img align="center" src="linkedin_icon.svg" alt="Luiz Mitsuru Dai" height="64" width="64" /></a>
   
   
  
