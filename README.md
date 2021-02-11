@@ -4,7 +4,7 @@
   </Details>
   <br>
   
-  ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmitsurudai&show_icons=true&theme=radical)
+  ![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=radical)
   
 
 <!--
