@@ -1,6 +1,6 @@
 ### Hi there 👋
 <Details>
-  <Sumary><b>coisas para saber sobre mim</<i>(Clique aqui)</i>b></Sumary>
+  <Sumary><b>coisas para saber sobre mim</b><i>(Clique aqui)</i></Sumary>
   </Details>
 
 <!--
