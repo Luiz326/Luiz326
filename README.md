@@ -1,5 +1,6 @@
 # Olá pessoal👋
-Me chamo Luiz e estou cursando análise e desenvolvimento de sistemas.
+Me chamo Luiz e sou apaixonado por tecnologia.
+Procuro me manter antenado nas tecnoligias novas e atualizações.
 <br><br>
 Redes Sociais
 <br><br>
