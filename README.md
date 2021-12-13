@@ -35,7 +35,7 @@ Redes Sociais
     
 </div>
 
- ![Snake animation](https://github.com/Luiz326/Luiz326/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/luiz326/luiz326/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LUIZ326&repo=LUIZ326&theme=react)](https://github.com/LUIZ326/LUIZ326)
 <!--
