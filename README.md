@@ -8,22 +8,24 @@ Redes Sociais
 <br>
 <br>
 
-![Luiz Mitsuru Dai GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=merko)
 
-<a href="https://github.com/Luiz326/github-readme-stats">
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz326&layout=compact&theme=merko" />
-</a>
 
+
+<a href="https://github.com/Luiz326">
+    
+    
 <div>
-  <a href="https://github.com/Luiz326">
+    <br/>
+  
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUIZ326&layout=compact&langs_count=7&theme=react" />
- ![snake gif](https://github.com/Luiz326/Luiz326/blob/output/github-contribution-grid-snake.gif)
+<br/>
  </div>
   
-  
+  <br/>
 
-
+ ![snake gif](https://github.com/Luiz326/Luiz326/blob/output/github-contribution-grid-snake.gif)
      
    
 
