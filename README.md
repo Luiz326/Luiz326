@@ -37,7 +37,7 @@ Redes Sociais
 
  ![Snake animation](https://github.com/Luiz326/Luiz326/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/LUIZ326/LUIZ326)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LUIZ326&repo=LUIZ326&theme=react)](https://github.com/LUIZ326/LUIZ326)
 <!--
 **Luiz326/Luiz326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
