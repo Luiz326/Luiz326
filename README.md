@@ -22,7 +22,7 @@ Redes Sociais
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
     
-     ![Snake animation](https://github.com/Luiz326/Luiz326/blob/output/github-contribution-grid-snake.svg)
+   
  <br>
 
 
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+      ![Snake animation](https://github.com/Luiz326/Luiz326/blob/output/github-contribution-grid-snake.svg)
