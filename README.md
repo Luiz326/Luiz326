@@ -8,7 +8,7 @@ Redes Sociais
 <br>
 <br>
 
-<img width="55%" align="right" alt="Github" src="https://github.com/Luiz326/Luiz326/blob/main/KEY0.CC-Github-Octocat-Robot.png" />
+<img width="40%" align="left" alt="Github" src="https://github.com/Luiz326/Luiz326/blob/main/KEY0.CC-Github-Octocat-Robot.png" />
 
 <a href="https://github.com/Luiz326">
     
@@ -16,7 +16,7 @@ Redes Sociais
 <div>
     <br/>
   
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center"  src="https://github-readme-stats.vercel.app/api?username=Luiz326&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br/>
    
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUIZ326&layout=compact&langs_count=7&theme=react" />
 <br/>
